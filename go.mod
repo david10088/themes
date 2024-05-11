@@ -1,4 +1,4 @@
-module github.com/GoAdminGroup/themes
+module github.com/david10088/themes
 
 go 1.21.5
 
